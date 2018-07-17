@@ -17,6 +17,9 @@ public class Office {
 		
 		System.out.println("The employee name is " + e1.getName());
 		System.out.println("The department name is " + d1.getDeptName());
+		
+		System.out.println("The employee Id is " +e1.geteId());
+		
 	}
 	
 }
